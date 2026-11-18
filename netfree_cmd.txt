@@ -1,0 +1,13 @@
+
+
+
+pip config set global.cert "C:\ProgramData\NetFree\CA\netfree-ca-bundle-curl.crt"
+
+pip install numpy 
+pip install jupyterlab
+pip install notebook
+pip install scikit-learn
+pip install matplotlib
+pip install pandas
+pip install seaborn
+pip install scipy
